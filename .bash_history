@@ -44,3 +44,37 @@ npm audit fix --force
 npm install -g serve
 npm fund
 serve -s build
+date
+hostname
+hostnamectl set-hostname steve
+hostname
+useradd steve && passwd steve#13
+usermod -ad wheel steve
+usermod -dm /home/steve steve
+git --version
+git config --global user.name "Steve Lemlek"
+git config --global user.email "steve@halandsteveenglish.com"
+git clone https://github.com/NwayNway/test-repo-789.git
+~/test-repo-789
+git pull https://github.com/NwayNway/test-repo-789.git master
+ls -la
+git init
+cat .git/HEAD
+git pull https://github.com/NwayNway/test-repo-789.git
+~/test-repo-789
+git checkout -b newbranch
+mkdir project
+touch repoTest1.js repoTest2.html project/prjtTest1.js project/prjtTest1.htm
+git status
+git add . 
+git add .
+git status
+git commit -m "Test files for test-repo-789 fork"
+git push https://github.com/CoachSteveMichael/test-repo-789.git%20newbranch
+git config --global push.default current
+git push https://github.com/CoachSteveMichael/test-repo-789.git newbranch
+git config --global push.default current
+git push https://github.com/CoachSteveMichael/test-repo-789.git newbranch
+git config --global push.default current
+git push  
+git push https://github.com/CoachSteveMichael/test-repo-789.git newbranch

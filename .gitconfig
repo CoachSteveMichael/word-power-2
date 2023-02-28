@@ -1,3 +1,5 @@
 [user]
 	name = Steve Lemlek
 	email = steve@halandsteveenglish.com
+[push]
+	default = current
